@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "561179936081",
+    "firebase_url": "https://iot-test1-dfb2f-default-rtdb.firebaseio.com",
+    "project_id": "iot-test1-dfb2f",
+    "storage_bucket": "iot-test1-dfb2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561179936081:android:e28f60f30e1c3017987f70",
+        "android_client_info": {
+          "package_name": "com.example.firebase_download1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561179936081-mr082nfbjvbnat74jlbo59p661fe7a2c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_download1",
+            "certificate_hash": "6a6ac80935cebb72320fdf4ca98c468b39799494"
+          }
+        },
+        {
+          "client_id": "561179936081-u9v5m4iep0s8p19o0cmcc4ahlicrq5s8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAmRKg7sGYqPyuhm0FiFsNbleR9BChhHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561179936081-u9v5m4iep0s8p19o0cmcc4ahlicrq5s8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561179936081:android:22c058e09e6a62d7987f70",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561179936081-vicr1pnahs24fiaqersdacjb71je5o6e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "92f319b0263d2b1ed9089049dbe886e2f6f6b4cf"
+          }
+        },
+        {
+          "client_id": "561179936081-u9v5m4iep0s8p19o0cmcc4ahlicrq5s8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAmRKg7sGYqPyuhm0FiFsNbleR9BChhHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561179936081-u9v5m4iep0s8p19o0cmcc4ahlicrq5s8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561179936081:android:2c6622d46df827b5987f70",
+        "android_client_info": {
+          "package_name": "com.example.smart_chlothing_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561179936081-84od2223rluvd87vl5g7stfp3ejh4tmn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart_chlothing_app",
+            "certificate_hash": "6a6ac80935cebb72320fdf4ca98c468b39799494"
+          }
+        },
+        {
+          "client_id": "561179936081-u9v5m4iep0s8p19o0cmcc4ahlicrq5s8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAmRKg7sGYqPyuhm0FiFsNbleR9BChhHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561179936081-u9v5m4iep0s8p19o0cmcc4ahlicrq5s8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

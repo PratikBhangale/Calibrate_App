@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeActivity"
+    android:background="@drawable/gradient_background">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="20dp"
+        android:paddingStart="20dp"
+        android:hint="Welcome Pratik"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/bpmtext"
+        android:layout_width="125dp"
+        android:layout_height="70dp"
+        android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:hint="BPM"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/humidity"
+        android:layout_width="212dp"
+        android:layout_height="69dp"
+        android:layout_below="@+id/bpmtext"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:hint="Humidity"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/temp"
+        android:layout_width="250dp"
+        android:layout_height="73dp"
+        android:layout_below="@+id/humidity"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:hint="Temperature"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="102dp"
+        android:layout_height="40dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="98dp"
+        android:background="@drawable/button_style"
+        android:text="Start Sensor"
+        android:textColor="@color/white" />
+</RelativeLayout>
